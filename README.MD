@@ -1,6 +1,9 @@
 # Smart Packing List Web App
 
 <img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/5c010c14-84d3-496c-a542-400ed6d318e0" />
+<img width="426" height="321" alt="image" src="https://github.com/user-attachments/assets/ce1f874c-6e20-45a8-82b9-7083af584ac5" />
+<img width="930" height="688" alt="image" src="https://github.com/user-attachments/assets/454f439c-5457-4fe0-af1d-a5d5a8088d1b" />
+
 
 ## Tech Stack
 - PHP (PDO)
