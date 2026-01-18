@@ -1,6 +1,6 @@
 # Smart Packing List Web App
 
-A PHP-based logistics web application that allows users to create shipments, calculate volume and weight, select suitable box sizes, and generate PDF packing lists.
+<img width="940" height="591" alt="image" src="https://github.com/user-attachments/assets/5c010c14-84d3-496c-a542-400ed6d318e0" />
 
 ## Tech Stack
 - PHP (PDO)
